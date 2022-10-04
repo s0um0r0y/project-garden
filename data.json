@@ -1,0 +1,14 @@
+[
+    {
+        "Temp":"40",
+        "Temp2":"40.2"
+    },
+    {
+        "Moisture":"100",
+        "Moisture2":"101"
+    },
+    {
+        "Surrounding_Temp":"30",
+        "Surrounding_Temp2":"45"
+    }
+]
